@@ -1,0 +1,49 @@
+//hackathon stylesheet
+
+
+/*
+#backgroundColor {
+    background-color: #7FFFD4;
+}*/
+
+h2 {
+	text-align: center;
+	text-indent: 10em;
+}
+	
+/*decendent selector*/
+h1 strong {
+	color: orange;
+	font-size: 1em;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#about{	
+	text-align: justify;
+	letter-spacing : .25em;
+	font-family: "Times New Roman", Times, serif;
+/*    width: 25%;
+    float: left;
+}
+
+#map {
+    width: 75%;
+    float: right;*/
+}
+/*.container h2 {
+	font-size: 30px;
+	border-color: black;
+}
+.container h3 {
+	font-size: 25px;
+	border-color: red;
+	color: black;
+}*/
+.carousel-caption {
+	font-weight: 450;
+	color: white;
+}
+
+/issues: 
+why can't I change the background color? 
+what's overriding it? 

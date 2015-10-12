@@ -1,0 +1,11 @@
+{
+  "name": "hackathonproject",
+  "version": "1.0.0",
+  "description": "testing out grunt",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christina mitchell",
+  "license": "ISC"
+}
